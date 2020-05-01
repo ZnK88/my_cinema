@@ -1,0 +1,59 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+form
+{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.PremierTableau
+{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.ZoneSelect
+{
+    display: flex;
+    
+}
+
+td
+{
+    background-color: bisque;
+}
+th
+{
+    background-color: chocolate;
+}
+.test
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.recherchefilm
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.resultatrecherchepardate
+{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
